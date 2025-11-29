@@ -4,12 +4,12 @@ A powerful Laravel 10-based Content Management System with Role-Based Access Con
 
 ## Features
 
-- 🔐 **Role-Based Access Control (RBAC)**: Users, Roles, and Permissions management
-- 📄 **Dynamic Webpage Builder**: Create landing pages, articles, and shop pages
-- 🎨 **Modular Sections**: 13+ section types (Hero, Grid, Testimonials, etc.)
-- 🖼️ **Image Management**: Upload and manage images for sections
-- 🎯 **Permission-Based Access**: Fine-grained access control
-- 📱 **Responsive Design**: Bootstrap 5 with custom styling
+- **Role-Based Access Control (RBAC)**: Users, Roles, and Permissions management
+- **Dynamic Webpage Builder**: Create landing pages, articles, and shop pages
+- **Modular Sections**: 13+ section types (Hero, Grid, Testimonials, etc.)
+- **Image Management**: Upload and manage images for sections
+- **Permission-Based Access**: Fine-grained access control
+- **Responsive Design**: Bootstrap 5 with custom styling
 
 ## Requirements
 
