@@ -22,7 +22,7 @@ A powerful Laravel 10-based Content Management System with Role-Based Access Con
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/laravel-marga.git
+git clone https://github.com/jules0000/laravel-marga.git
 cd laravel-marga
 ```
 
